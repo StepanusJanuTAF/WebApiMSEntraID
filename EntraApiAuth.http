@@ -1,0 +1,6 @@
+@EntraApiAuth_HostAddress = http://localhost:5223
+
+GET {{EntraApiAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
